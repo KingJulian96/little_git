@@ -1,0 +1,29 @@
+Date        Start       End         Activity        Comments
+2019/09/24    19:00       23:40       Coding        finished the init, add, commit, show, log and some error messages
+
+
+2019/09/25    12:00       16:30       debug         debug the subset_0; I have reconstructed the index
+													and the master branch; can't finish the debugging of the commit
+													I have to rethink the construction of my the master branch and my method of commit
+
+2019/09/25    19:00       22:30       debug         wrote the new commit function; finished the commit and subset_0; learnt dircopy
+
+2019/09/25    14:00       20:00       Coding        Worked on subset_1:
+
+													Didn't understand [-a], check question on course website;
+													learnt how to use compare to check the change of the file
+													change the if statements to make everything clearer
+
+
+
+
+2019/09/26    13:00       18:00       debug        passed subset 1_11 and 1_12 and subset 1_13, failed the rest
+
+2019/09/26    20:00       22:00       debug        can't figure my wrongs in the subset 1_18 and 16, have to redo the state's if statement
+
+
+2019/09/27    15:30       16:00       debug       found out the root of the problem of subset 1_18 and 16 is in rm and commit, fixed the problem
+
+2019/09/28    17:00       04:40       debug        finish the "status"  & debug， subset_1 finished.
+2019/10/01    12:00       02:00       wirte test   found file error message that I have forget to wrote in my rm, add, commit
+2019/10/01    17:00       22:00       wirte test   found file error message that I have forget to wrote in my add
